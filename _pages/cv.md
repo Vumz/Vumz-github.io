@@ -16,7 +16,7 @@ Education
   * **GPA**: 4.0
   * **CS Courses**: Intro to Computer Science, Intro to Object Oriented Programming, Linear Algebra, Discrete Math,
 Multivariable Calculus, Data Structures & Algorithms, Computer Organization & Programming, Objects and Design
-* I.B. diploma, Mira Loma High School, 2016
+* I.B. Diploma, Mira Loma High School, 2016
 
 
 Skills
