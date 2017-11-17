@@ -1,6 +1,6 @@
 ---
 title: "Authentication Schemes for Wearables"
-excerpt: " Cybersecurity research project under Prof. Memon at NYU Tandon School of Engineering. <br/><img src='/images/TapLanding.jpg'>"
+excerpt: " Cybersecurity research project under Prof. Memon at NYU Tandon School of Engineering. <br/><img src='/images/TL1.jpg'><img src= '/images/TL2.png'>"
 collection: portfolio
 ---
 
