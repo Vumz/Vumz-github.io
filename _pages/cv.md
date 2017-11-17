@@ -42,7 +42,7 @@ Research
   * **Skills Used**: Python, Keras, Tensorflow, Matlab
   * **Description**: Working on new capacitive proximity sensing methods and machine learning techniques to improve the assistance of robots for patient dressing. Making improvements to an existing capacitive sensor design mounted on a PR2 robot, collecting data with the robot, and using machine learning regression techniques (SVMs and neural networks) to process data and control the robot.
   
-* **Robotics research with NYU Poly**: Researcher
+* **Cybersecurity research with NYU Poly**: Researcher
   * **Date**: July 2015 – September 2015
   * **Location**: New York City, NY
   * **Skills Used**: Swift, Xcode, Java, Android Studio
