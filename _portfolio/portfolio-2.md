@@ -15,7 +15,7 @@ collection: portfolio
 | ![Alt Text](/images/TLSuccess.gif) | ![Alt Text](/images/TLFail.gif) |
 
 | DrawPassword |
-|---|
+|---|---|
 | ![](/images/DP1.png) | ![](/images/DP2.png) |
 | ![](/images/DP3.png) | ![](/images/DP3.png) |
 
