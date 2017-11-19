@@ -17,6 +17,5 @@ collection: portfolio
 | DrawPassword | DrawPassword |
 |---|---|
 | ![](/images/DP1.png) | ![](/images/DP2.png) |
-|---|---|
 | ![](/images/DP3.png) | ![](/images/DP3.png) |
 
