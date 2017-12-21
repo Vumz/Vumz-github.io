@@ -1,1 +1,1 @@
-Personal website currently in the making.
+My personal website, https://vumz.github.io
