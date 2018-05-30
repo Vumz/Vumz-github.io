@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm currently a sophmore undergraduate student at Georgia Tech pursuing a Computer Science major and Robotics minor. My interests lie in robotics and software developement, specifically for automation and app/web developement.  
+Hi, I'm a rising junior undergraduate student at Georgia Tech pursuing a Computer Science major and Robotics minor. My interests lie in robotics and software developement, specifically for automation and app/web developement, as well as machine learning and cybersecurity.  
 
 Please check out my portfolio and CV!
