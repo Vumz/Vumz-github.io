@@ -48,7 +48,7 @@ Research
   * **Skills Used**: Python, Keras, Tensorflow, Matlab
   * **Description**: Working on new capacitive proximity sensing methods and machine learning techniques to improve the assistance of robots for patient dressing. Making improvements to an existing capacitive sensor design mounted on a PR2 robot, collecting data with the robot, and using machine learning regression techniques (SVMs and neural networks) to process data and control the robot.
   
-* **Cybersecurity research with NYU Poly**: Researcher
+* **[Cybersecurity research with NYU Poly](https://vumz.github.io/portfolio/portfolio-3/)**: Researcher
   * **Date**: July 2015 – September 2015
   * **Location**: New York City, NY
   * **Skills Used**: Swift, Xcode, Java, Android Studio
@@ -57,17 +57,17 @@ Research
   
 Projects
 ======
-* **amToSpotify- Playlist Converter**
+* **[amToSpotify- Playlist Converter](https://vumz.github.io/portfolio/portfolio-1/)**
   * **Date**: December 2017 – present
   * **Skills Used**: HTML, CSS, Flask, Python
   * **Description**: Developed a program to parse a user’s Apple Music playlist and add the tracks to their selected Spotify playlist. Used the Flask web framework and python to process and send HTTP requests to use Spotify’s web API. (Currently working on making this project a fully functionable MEAN based website)
 
-* **Lend Formal Web Service**
+* **[Lend Formal Web Service](https://vumz.github.io/portfolio/portfolio-2/)**
   * **Date**: August 2016 – January 2017
   * **Skills Used**: HTML, CSS, Django, SQL
   * **Description**: Developed a web based service that will facilitate peer to peer lending of formal clothes. Front end coded using HTML5 and CSS, using Django web framework to connect front end to SQL back end.
   
-* **Ridemates- Capooling App**
+* **[Ridemates- Capooling App](https://vumz.github.io/portfolio/portfolio-4/)**
   * **Date**: June 2013 – September 2013
   * **Skills Used**: HTML, Intel XDK, AWS
   * **Description**: Developed Carpooling mobile app in HTML5 using Amazon AWS cloud to aid carpooling for school.
@@ -75,7 +75,7 @@ Projects
 * **VEX Robotics**
   * **Date**: August 2017 - Present
   * **Skills Used**: ROBOTC, AutoCAD
-  * **Description**: Led high school team to qualify and win awards at VEX world championships tournament every year. Ranked 3rd in the world for driving skills and 3rd in the world for programming skills out of over 10,000 teams. Used ROBOTC extensively to program PID control and sensors such as potentiometer, gyroscope, and encoders.
+  * **Description**: Led high school team to qualify and win awards at VEX world championships tournament every year. Ranked 3rd in the world for driving skills and 3rd in the world for programming skills out of over 10,000 teams. Used ROBOTC extensively to program PID control and sensors such as potentiometer, gyroscope, and encoders. [Check out our autonomous skills run here!](https://www.youtube.com/watch?v=VO7Y1gSFbo8)
 
   
 Service and leadership
