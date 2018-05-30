@@ -14,20 +14,26 @@ Education
 ======
 * **B.S. in Computer Science, Georgia Institute of Technology, May 2020 (expected)**
   * **GPA**: 4.0
-  * **CS Courses**: Intro to Computer Science, Intro to Object Oriented Programming, Linear Algebra, Discrete Math,
-Multivariable Calculus, Data Structures & Algorithms, Computer Organization & Programming, Objects and Design
+  * **Completed CS Courses**: Intro to Computer Science, Intro to Object Oriented Programming, Linear Algebra, Discrete Math,
+Multivariable Calculus, Data Structures & Algorithms, Computer Organization & Programming, Objects and Design, Systems and Networking, Design and Analysis of Algorithms, Intro to Artificial Intelligence
 * I.B. Diploma, Mira Loma High School, 2016
 
 
 Skills
 ======
 * **Languages**: Python, Java, HTML5, Swift, Matlab, ROBOTC, and Objective-C
-* **Applications**: Xcode, Android Studio, and AutoCAD
+* **Applications/Frameworks**: Xcode, Android Studio, Visual Studio, AutoCAD, Django, Flask, Git, and AWS EC2
 
 
 Work experience
 ======
-* **TestGrid Inc.**: Intern
+* **Intel**: Software Engineering Intern
+  * **Date**: May 2018 – present
+  * **Location**: California, CA
+  * **Skills Used**: Python, Visual Studio, C++
+  * **Description**: Developing Thunderbolt software debug tool to allow engineers to read and write TBT register values in a UI. Client side of the TBT tool is written in python using the wxpython library, and the target side written in C++. Also working on automating validation test cases and performing testing/validation on customer designs.
+  
+* **TestGrid Inc.**: Software Engineering Intern (Part-time)
   * **Date**: January 2017 – April 2017
   * **Location**: Atlanta, GA
   * **Skills Used**: HTML, CSS, Java, and Swift
@@ -51,6 +57,11 @@ Research
   
 Projects
 ======
+* **amToSpotify- Playlist Converter**
+  * **Date**: December 2017 – present
+  * **Skills Used**: HTML, CSS, Flask, Python
+  * **Description**: Developed a program to parse a user’s Apple Music playlist and add the tracks to their selected Spotify playlist. Used the Flask web framework and python to process and send HTTP requests to use Spotify’s web API. (Currently working on making this project a fully functionable MEAN based website)
+
 * **Lend Formal Web Service**
   * **Date**: August 2016 – January 2017
   * **Skills Used**: HTML, CSS, Django, SQL
