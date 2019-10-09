@@ -1,6 +1,6 @@
 ---
 title: "Citatem"
-excerpt: "A group travel app to ease the hassles of planning group travel and determining cities to visit. <br/><img src='/images/CLanding.jpeg'>"
+excerpt: "A group travel app to ease the hassles of planning group travel and determining cities to visit. <br/><img src='/images/CLanding.png'>"
 collection: portfolio
 ---
 
