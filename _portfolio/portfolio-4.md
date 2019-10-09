@@ -1,6 +1,6 @@
 ---
 title: "amToSpotify- Playlist Converter"
-excerpt: "A website playlist converter between Apple Music and Spotify without having to download anything to your device."
+excerpt: "A website playlist converter between Apple Music and Spotify without having to download anything to your device. <br/><a href="https://vumz.github.io/portfolio/portfolio-4/"><img src='/images/amToSpotifyLanding.jpeg'></a>"
 collection: portfolio
 ---
 

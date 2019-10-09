@@ -1,6 +1,6 @@
 ---
 title: "Pill Reminder"
-excerpt: "An easy adjustable pill bottle cap that reminds users when to take their medication. <br/><img src='/images/PillLanding.png'>"
+excerpt: "An easy adjustable pill bottle cap that reminds users when to take their medication. <br/><a href="https://vumz.github.io/portfolio/portfolio-2/"><img src='/images/PillLanding.png'></a>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ridemates - Carpooling App"
-excerpt: "A mobile app to ease carpooling to and from school done as a personal project. <br/><img src='/images/RMLanding.jpg'>"
+excerpt: "A mobile app to ease carpooling to and from school done as a personal project. <br/><a href="https://vumz.github.io/portfolio/portfolio-7/"><img src='/images/RMLanding.jpg'></a>"
 collection: portfolio
 ---
 

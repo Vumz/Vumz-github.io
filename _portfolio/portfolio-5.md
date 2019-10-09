@@ -1,6 +1,6 @@
 ---
 title: "Lend Formal Web Service"
-excerpt: "A peer to peer formal wear website platform dome as part of the Idea to Prototype program at Georgia Tech. <br/><img src='/images/LFLanding.jpeg'>"
+excerpt: "A peer to peer formal wear website platform dome as part of the Idea to Prototype program at Georgia Tech. <br/><a href="https://vumz.github.io/portfolio/portfolio-5/"><img src='/images/LFLanding.jpeg'></a>"
 collection: portfolio
 ---
 
