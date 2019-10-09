@@ -1,6 +1,6 @@
 ---
 title: "Healthcare Robotics Research"
-excerpt: "Robotics research ranging from sensor design to realistic simulation. <br/><a href="https://vumz.github.io/portfolio/portfolio-1/"><img src='/images/ResearchLanding.png'></a>"
+excerpt: "Robotics research ranging from sensor design to realistic simulation. <br/><img src='/images/ResearchLanding.png'>"
 collection: portfolio
 ---
 
