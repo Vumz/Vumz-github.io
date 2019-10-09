@@ -1,21 +1,32 @@
 ---
-title: "Authentication Schemes for Wearables"
-excerpt: " Cybersecurity research project under Prof. Memon at NYU Tandon School of Engineering. <br/><img src='/images/TL1.png'><img src= '/images/TL2.png'>"
+title: "Citatem"
+excerpt: "A group travel app to ease the hassles of planning group travel and determining cities to visit. <br/><img src='/images/CLanding.jpeg'>"
 collection: portfolio
 ---
 
-**Date**: July 2015- September 2015
+**Date**: August 2018 – December 2018
 
-**Platforms used**: Swift/Xcode for Apple Watch OS 2.0., R package to plot data, Java/Android Studio for AndroidWear devices.
+**Skills/Platforms used**: Java, Swift, AWS lambda, AWS database
 
-**Summary**: Investigated authentication schemes for wearable devices and proposed a novel rhythmic tap based authentication for smart watches. Traditional PIN based schemes are clumsy and not very secure. I implemented the proposed method on Apple Watch OS 2.0 and shown through a preliminary user study that it has high success rate like traditional PIN method yet it is more secure from shoulder surfing. The rhythmic PIN is essentially a 4 tap password that includes time between taps on the watch surface divided into 4 quadrants.  It is recorded as P = (q1, d1, q2, d2, q3, d3, q4) where qi corresponds to the quadrant for ith tap and dj is the delay between taps j and j+1. A password attempt is authenticated if its Euclidean distance to the password P is within a certain threshold. A study with a small group of users was done to measure success rate (repeatability) and shoulder surfing. The app logged the data into CSV files and R package was used to analyze and plot results. 
+**Summary**: Finding cities to visit based on multiple constraints such as time, budget, and interests is not something that can be easily done at the moment. There is also a problem with group travel planning and how to find a place everyone wants to go to and also fits their time and budget constraints as well. In order to do this, travelers have to manually look through all the options on different platforms and see which trips are viable and if they are of interest, as well as spend time coordinating where and when would be the best time for their group to travel. The problem focus is specifically on the difficulty of finding cities to visit that align with the user’s or group’s preferences and interests, and getting a travel option to those cities. There are existing solutions such as TripAdvisor and Expedia, but these platforms don’t give good recommendations based on a user’s interests, and let’s the user themselves research if the city is interesting enough for them to go to. These services also don’t give any indication of the environmental impact the different modes of transport have. These services also don’t have any way of easing the pains of group travelling and focus specifically on single users. 
 
-| TapLock Success | TapLock Fail |
-|---|---|
-| ![Alt Text](/images/TLSuccess.gif) | ![Alt Text](/images/TLFail.gif) |
+Our app scans the user's photos to determine which cities would be good recommendations and then allows the users to set their preferences for travel. After setting their preferences a user can add others to the group and the app will recommend a set of cities to choose from with the flight/bus ticket prices and the corresponding carbon footprint of the trip. The group can vote for their top three choices and the top voted city will be determined. More can be seen in the links below!
 
-| DrawPassword | DrawPassword |
-|---|---|
-| ![](/images/DP1.png) | ![](/images/DP2.png) |
-| ![](/images/DP3.png) | ![](/images/DP3.png) |
+[Winner of the Fall 2018 CIC](http://cic.gatech.edu/fall-2018/winners/citatem)
+
+[More on the CIC competition](https://globalchange.gatech.edu/posts/climate-solutions-at-the-fall-2018-convergence-innovation-competition/)
+
+[Video of the app](https://vimeo.com/296415311)
+
+<figure class="video_container">
+  <iframe src="https://vimeo.com/296415311" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+[Citatem website](https://citatem.netlify.com)
+
+![Citatem Poster](/images/citatem_poster.png)
+
+![Citatem Backend](/images/CBackend.png)
+
+
 

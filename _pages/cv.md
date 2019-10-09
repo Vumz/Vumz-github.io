@@ -48,13 +48,13 @@ Work experience
   
 Research
 ======
-* **[Robotics research with Georgia Tech's Healthcare Robotics Lab](https://vumz.github.io/portfolio/portfolio-6/)**: Undergraduate Researcher
+* **[Robotics research with Georgia Tech's Healthcare Robotics Lab](https://vumz.github.io/portfolio/portfolio-1/)**: Undergraduate Researcher
   * **Date**: August 2017 - Present
   * **Location**: Atlanta, GA
   * **Skills Used**: Python, Keras, Tensorflow, Matlab, ROS, PyBullet, C/C++, OpenGL
   * **Description**: Working on new capacitive proximity sensing methods and machine learning techniques to improve the assistance of robots for patient dressing. Making improvements to an existing capacitive sensor design mounted on a PR2 robot, collecting data with the robot, and using machine learning regression techniques (SVMs and neural networks) to process data and control the robot. Working on improving simulation environments to train robotic assistive tasks to be performed in the real world. Using deep reinforcement learning techniques to train robots in simulation to perform assistive tasks. Paper on the above work submitted to the 2020 International Conference on Robotics and Automation.
   
-* **[Cybersecurity research with NYU Poly](https://vumz.github.io/portfolio/portfolio-3/)**: Researcher
+* **[Cybersecurity research with NYU Poly](https://vumz.github.io/portfolio/portfolio-6/)**: Researcher
   * **Date**: July 2015 – September 2015
   * **Location**: New York City, NY
   * **Skills Used**: Swift, Xcode, Java, Android Studio
@@ -69,22 +69,22 @@ Publications
   
 Projects
 ======
-* **[Citatem](https://vumz.github.io/portfolio/portfolio-5/)**
+* **[Citatem](https://vumz.github.io/portfolio/portfolio-3/)**
   * **Date**: August 2018 – December 2018
   * **Skills Used**: Java, Swift, AWS lambda, AWS database
   * **Description**: Developed a group travel app to ease the hassles of planning group travel and determining cities to visit. Used android studio for app development and AWS lambda and database for backend work. Won first place in the 2018 Georgia Tech CIC competition for the climate solutions category. 
 
-* **[amToSpotify- Playlist Converter](https://vumz.github.io/portfolio/portfolio-1/)**
+* **[amToSpotify- Playlist Converter](https://vumz.github.io/portfolio/portfolio-4/)**
   * **Date**: December 2017 – February 2018
   * **Skills Used**: HTML, CSS, Flask, Python
   * **Description**: Developed a program to parse a user’s Apple Music playlist and add the tracks to their selected Spotify playlist. Used the Flask web framework and python to process and send HTTP requests to use Spotify’s web API. (Currently working on making this project a fully functionable MEAN based website)
 
-* **[Lend Formal Web Service](https://vumz.github.io/portfolio/portfolio-2/)**
+* **[Lend Formal Web Service](https://vumz.github.io/portfolio/portfolio-5/)**
   * **Date**: August 2016 – January 2017
   * **Skills Used**: HTML, CSS, Django, SQL
   * **Description**: Developed a web based service that will facilitate peer to peer lending of formal clothes. Front end coded using HTML5 and CSS, using Django web framework to connect front end to SQL back end.
   
-* **[Ridemates- Capooling App](https://vumz.github.io/portfolio/portfolio-4/)**
+* **[Ridemates- Capooling App](https://vumz.github.io/portfolio/portfolio-7/)**
   * **Date**: June 2013 – September 2013
   * **Skills Used**: HTML, Intel XDK, AWS
   * **Description**: Developed Carpooling mobile app in HTML5 using Amazon AWS cloud to aid carpooling for school.
