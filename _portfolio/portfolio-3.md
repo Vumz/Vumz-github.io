@@ -19,7 +19,7 @@ Our app scans the user's photos to determine which cities would be good recommen
 [Video of the app](https://vimeo.com/296415311)
 
 <figure class="video_container">
-  <iframe src="https://vimeo.com/296415311" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/296415311" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 [Citatem website](https://citatem.netlify.com)

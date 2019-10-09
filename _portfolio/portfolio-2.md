@@ -13,15 +13,17 @@ collection: portfolio
 This project is aimed to help solve two problems related to medication bottles. The first one is the difficulty that people have opening these bottles, specifically the elderly. The second is to remind patients to take their pills at the correct time while having low power consumption. Hence, the primary deliverable for this project is a device that can be placed on pill bottles of any dimension that solves the two aforementioned problems. We believe that these problems are important to tackle as they would reduce medication errors and make the lives of people, especially the elderly, easier. Although there are existing devices of this nature, we believe that our design is unique because it fits to multiple cap sizes and can last on a single charge for over three years.
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/open?id=1WmsgLgFXXyfxLY3vVa-yg_yOvBjYullB" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1WmsgLgFXXyfxLY3vVa-yg_yOvBjYullB/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 *Technical Overview*
+
 The image below shows the the assembly of our final device. Once the user places the device on their bottle cap, they have a minute to set how many pills they are supposed to take daily, using the red buttons on the side. To reset this minute phase, the user can press the black button, which restarts the minute and resets the pill count. After this minute, the time interval for each pill is calculated. To let the device know that the user has taken a pill, they need to press the black button. If this button is pressed close to the time that the pill is supposed to be taken or after the buzzer goes off, the timer is reset for the next pill. If not, then a warning pops up letting the user know it’s not time to take the pill yet.
 
 ![Fully assembled device](/images/PillTop.png)
 
 *Mechanical*
+
 This device comprises of two parts. There were two main design choices made for the component holder. The first was to make a hex key insert to allow the cap to be placed on any pill bottle. This works by sticking the base hex key holder to the original pill bottle cap using an adhesive backing. The second design choice was to make the cap cross shaped so the cap is easier to grasp, especially for the elderly. The cross sections of the cap also allow for higher torque to be applied to the cap which is useful for the common twist off pill bottle caps.
 
 ![CAD images of hex key insert and holder](/images/PillCAD.png)
@@ -29,6 +31,7 @@ This device comprises of two parts. There were two main design choices made for 
 
 
 *Hardware/Software*
+
 For the microcontroller, we used a TinyZero Processor Board, which is developed by TinyCircuits, a maker of tiny open-source electronics. Its small size was helpful in keeping the device as small as possible. This board also has many different sensors and shields that it can connect to using its 32 pin connector. We used a seven-segment LED display and protoboard shields for the board.
 
 The circuit used in this device comprised of the following components: the microcontroller and its sensors and shields, lithium battery, push-button switches, resistor and a buzzer. The switches were used to increase, decrease and reset the pill count and confirming that a pill was taken. We also had to account for some error in the switches. The switches had to be pulled down in order to eliminate electrical noise and receive a constant low signal when they were open. We also had to handle switch bouncing, which is where the switches mechanically bounce, causing the connection to toggle between open and close quickly and make a single press seem like multiple presses. To tackle this, we had a debounce delay, where we would wait till after a set amount of time to read the signal from the switch.
