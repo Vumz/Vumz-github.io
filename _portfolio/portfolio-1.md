@@ -10,6 +10,8 @@ collection: portfolio
 
 **Summary**: 
 
+Z. Erickson, V. Gangaram, A. Kapusta, C. K. Liu, and C. C. Kemp, “Assistive Gym: A Physics Simulation Framework for Assistive Robotics,” (Submitted) 2020 International Conference on Robotics and Automation (ICRA)
+
 [Z. Erickson, H. M. Clever, V. Gangaram, G. Turk, C. K. Liu, and C. C. Kemp, “Multidimensional Capacitive Sensing for Robot-Assisted Dressing and Bathing,” 2019 International Conference on Rehabilitation Robotics (ICORR), 2019. (Best Student Paper Award)](https://arxiv.org/pdf/1904.02111.pdf)
 
 *Abstract*
@@ -20,6 +22,5 @@ Robotic assistance presents an opportunity to benefit the lives of many people w
   <iframe src="https://www.youtube.com/embed/3qKkkx9wshY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Z. Erickson, V. Gangaram, A. Kapusta, C. K. Liu, and C. C. Kemp, “Assistive Gym: A Physics Simulation Framework for Assistive Robotics,” (Submitted) 2020 International Conference on Robotics and Automation (ICRA)
 
 

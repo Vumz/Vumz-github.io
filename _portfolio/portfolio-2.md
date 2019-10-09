@@ -1,12 +1,12 @@
 ---
 title: "Pill Reminder"
-excerpt: "An easy adjustable pill bottle cap that reminds users when to take their medication." <br/><img src='/images/PillLanding.png'>"
+excerpt: "An easy adjustable pill bottle cap that reminds users when to take their medication. <br/><img src='/images/PillLanding.png'>"
 collection: portfolio
 ---
 
 **Date**: March 2019 – April 2019
 
-**Skills/Platforms used**: C++, CAD, Arduino
+**Skills/Platforms used**: C++, CAD, Arduino, 3D Printing
 
 **Summary**: Annually, there is an estimated 100 to 300 billion dollars in health care spending in the US that is incurred because people don’t take the medications they’re prescribed. Additionally, around three million older adults are admitted into nursing homes per year because of medication mismanagement. The aging population often have memory problems that make it difficult to manage taking their prescription pills at the right time. They also have weakened motor skills and dexterity from diseases such as arthritis and Parkinson's that make it difficult to open the child proof bottles that these pills come in, such as the push-down twist off cap. 
 
