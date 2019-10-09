@@ -1,6 +1,6 @@
 ---
 title: "Healthcare Robotics Research"
-excerpt: "Robotics research ranging from sensor design to realistic simulation. <br/><img src='/images/ResearchLanding.jpeg'>"
+excerpt: "Robotics research ranging from sensor design to realistic simulation. <br/><img src='/images/ResearchLanding.png'>"
 collection: portfolio
 ---
 

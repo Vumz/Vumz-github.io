@@ -16,8 +16,6 @@ Our app scans the user's photos to determine which cities would be good recommen
 
 [More on the CIC competition](https://globalchange.gatech.edu/posts/climate-solutions-at-the-fall-2018-convergence-innovation-competition/)
 
-[Video of the app](https://vimeo.com/296415311)
-
 <figure class="video_container">
   <iframe src="https://player.vimeo.com/video/296415311" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
