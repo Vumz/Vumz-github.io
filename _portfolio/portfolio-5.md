@@ -1,6 +1,6 @@
 ---
 title: "Citatem"
-excerpt: "A group travel app to ease the hassles of planning group travel and determining cities to visit. <br/><a href="https://vimeo.com/296415311" target="_blank"><img src='/images/CLanding.jpeg'></a>"
+excerpt: "A group travel app to ease the hassles of planning group travel and determining cities to visit. <br/><img src='/images/CLanding.jpeg'></a>"
 collection: portfolio
 ---
 
@@ -15,6 +15,8 @@ Our app scans the user's photos to determine which cities would be good recommen
 [Winner of the Fall 2018 CIC](http://cic.gatech.edu/fall-2018/winners/citatem)
 
 [Video of the app](https://vimeo.com/296415311)
+
+[Citatem website](https://citatem.netlify.com)
 
 ![Citatem Poster](/images/citatem_poster.png)
 
