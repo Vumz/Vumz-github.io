@@ -1,23 +1,19 @@
 ---
-title: "Ridemates - Carpooling App"
-excerpt: "A mobile app to ease carpooling to and from school done as a personal project. <br/><img src='/images/RMLanding.jpg'>"
+title: "Lend Formal Web Service"
+excerpt: "A peer to peer formal wear website platform dome as part of the Idea to Prototype program at Georgia Tech. <br/><img src='/images/LFLanding.jpeg'>"
 collection: portfolio
 ---
 
-**Date**:  June 2013- September 2013
+**Date**: August 2016 – January 2017
 
-**Skills/Platforms used**: HTML5, IntelXDK, AWS
+**Skills/Platforms used**: Django, HTML5, CSS, Bootstrap 
 
-**Summary**: In high school I used to carpool everyday to save gas and time for a 45 minute commute. After seeing the difficulties of carpooling, I developed a mobile app to ease and promote carpooling to and from school. It was written in HTML5 using Intel XDK framework to accelerate development on multiple mobile platforms. Amazon’s AWS was used to store carpool data and enable daily interactions. In addition to ease carpooling, the app promoted carpooling by tracking fuel and CO2 emissions saved as a result of carpooling.
-Key features:
-* A website to create and schedule carpools
-* A mobile app for daily carpooling needs
-  * Know location of driver and time of arrival
-  * Know who is doing drop-off and pickup
-  * Be able to quickly call/chat with other carpool mates or drivers
-  * Record if you don’t need a ride 
-  * Request a ride from other carpools in case you need a ride
+**Summary**: Lend Formal is an online marketplace for individuals to lend and rent formal wear. Making formal wear more affordable and accessible for individuals of all economic backgrounds was the goal by utilizing the sharing economy. Individuals who own formal clothing can post their clothes for rent on the website and customers can rent out these clothing items for a much lower price than at retail stores while still giving the provider a cut of the sales. HTML5 and CSS were used to create the front end of the website along with the Bootstrap UI kit. The backend was handled using the Django python based web framework in order to keep the website scalable as well as easily manage the SQL database. Used the Model View Controller method to design the user interface of the website (Design picture seen below). 
 
-![Website](/images/RMWebsite.png)
-![App screens](/images/RM1.png)
-![App screens](/images/RM3.png)
+![Website Design](/images/LFServiceDesign.png)
+![Item Listings](/images/LFListing.jpeg)
+![Checkout](/images/LFCheckout.png)
+![Payment](/images/LFPayment.png)
+
+
+
