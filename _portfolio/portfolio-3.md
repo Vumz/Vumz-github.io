@@ -1,30 +1,30 @@
 ---
-title: "Citatem"
-excerpt: "A group travel app to ease the hassles of planning group travel and determining cities to visit. <br/><img src='/images/CLanding.png'>"
+title: "Healthcare Robotics Research"
+excerpt: "Robotics research ranging from sensor design to realistic simulation. <br/><img src='/images/ResearchLanding.png'>"
 collection: portfolio
 ---
 
-**Date**: August 2018 – December 2018
+**Date**: August 2017 – July 2020
 
-**Skills/Platforms used**: Java, Swift, AWS lambda, AWS database
+**Skill/Platforms used**: Python, Capacitive Sensing, Tensorflow, ROS, Teensy, EC2, Pybullet, Blender, OpenGL, C/C++
 
-**Summary**: Finding cities to visit based on multiple constraints such as time, budget, and interests is not something that can be easily done at the moment. There is also a problem with group travel planning and how to find a place everyone wants to go to and also fits their time and budget constraints as well. In order to do this, travelers have to manually look through all the options on different platforms and see which trips are viable and if they are of interest, as well as spend time coordinating where and when would be the best time for their group to travel. The problem focus is specifically on the difficulty of finding cities to visit that align with the user’s or group’s preferences and interests, and getting a travel option to those cities. There are existing solutions such as TripAdvisor and Expedia, but these platforms don’t give good recommendations based on a user’s interests, and let’s the user themselves research if the city is interesting enough for them to go to. These services also don’t give any indication of the environmental impact the different modes of transport have. These services also don’t have any way of easing the pains of group travelling and focus specifically on single users. 
+**Summary**: 
 
-Our app scans the user's photos to determine which cities would be good recommendations and then allows the users to set their preferences for travel. After setting their preferences a user can add others to the group and the app will recommend a set of cities to choose from with the flight/bus ticket prices and the corresponding carbon footprint of the trip. The group can vote for their top three choices and the top voted city will be determined. More can be seen in the links below!
+[Z. Erickson, V. Gangaram, A. Kapusta, C. K. Liu, and C. C. Kemp, “Assistive Gym: A Physics Simulation Framework for Assistive Robotics,” (Submitted) 2020 International Conference on Robotics and Automation (ICRA)](https://ieeexplore.ieee.org/abstract/document/9197411)
 
-[Winner of the Fall 2018 CIC](http://cic.gatech.edu/fall-2018/winners/citatem)
+*Abstract*
 
-[More on the CIC competition](https://globalchange.gatech.edu/posts/climate-solutions-at-the-fall-2018-convergence-innovation-competition/)
+Autonomous robots have the potential to serve as versatile caregivers that improve quality of life for millions of people worldwide. Yet, conducting research in this area presents numerous challenges, including the risks of physical interaction between people and robots. Physics simulations have been used to optimize and train robots for physical assistance, but have typically focused on a single task. In this paper, we present Assistive Gym, an open source physics simulation framework for assistive robots that models multiple tasks. It includes six simulated environments in which a robotic manipulator can attempt to assist a person with activities of daily living (ADLs): itch scratching, drinking, feeding, body manipulation, dressing, and bathing. Assistive Gym models a person's physical capabilities and preferences for assistance, which are used to provide a reward function. We present baseline policies trained using reinforcement learning for four different commercial robots in the six environments. We demonstrate that modeling human motion results in better assistance and we compare the performance of different robots. Overall, we show that Assistive Gym is a promising tool for assistive robotics research.
+
+[Z. Erickson, H. M. Clever, V. Gangaram, G. Turk, C. K. Liu, and C. C. Kemp, “Multidimensional Capacitive Sensing for Robot-Assisted Dressing and Bathing,” 2019 International Conference on Rehabilitation Robotics (ICORR), 2019. (Best Student Paper Award)](https://ieeexplore.ieee.org/abstract/document/8779542)
+
+*Abstract*
+
+Robotic assistance presents an opportunity to benefit the lives of many people with physical disabilities, yet accurately sensing the human body and tracking human motion remain difficult for robots. We present a multidimensional capacitive sensing technique that estimates the local pose of a human limb in real time. A key benefit of this sensing method is that it can sense the limb through opaque materials, including fabrics and wet cloth. Our method uses a multielectrode capacitive sensor mounted to a robot's end effector. A neural network model estimates the position of the closest point on a person's limb and the orientation of the limb's central axis relative to the sensor's frame of reference. These pose estimates enable the robot to move its end effector with respect to the limb using feedback control. We demonstrate that a PR2 robot can use this approach with a custom six electrode capacitive sensor to assist with two activities of daily living—dressing and bathing. The robot pulled the sleeve of a hospital gown onto able-bodied participants' right arms, while tracking human motion. When assisting with bathing, the robot moved a soft wet washcloth to follow the contours of able-bodied participants' limbs, cleaning their surfaces. Overall, we found that multidimensional capacitive sensing presents a promising approach for robots to sense and track the human body during assistive tasks that require physical human-robot interaction.
 
 <figure class="video_container">
-  <iframe src="https://player.vimeo.com/video/296415311" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/3qKkkx9wshY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-[Citatem website](https://citatem.netlify.com)
-
-![Citatem Poster](/images/citatem_poster.png)
-
-![Citatem Backend](/images/CBackend.png)
 
 
 
